@@ -1,0 +1,24 @@
+﻿  allSegments.c
+c:\users\omerd\source\repos\projectfinal\projectfinal\allsegments.c(51): warning C4101: 'temp': unreferenced local variable
+c:\users\omerd\source\repos\projectfinal\projectfinal\allsegments.c(112): warning C4047: '=': 'unsigned short' differs in levels of indirection from 'void *'
+c:\users\omerd\source\repos\projectfinal\projectfinal\allsegments.c(113): warning C4047: '=': 'unsigned short' differs in levels of indirection from 'void *'
+  bitMap.c
+c:\users\omerd\source\repos\projectfinal\projectfinal\bitmap.c(6): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\users\omerd\source\repos\projectfinal\projectfinal\bitmap.c(9): warning C4013: 'printf' undefined; assuming extern returning int
+c:\users\omerd\source\repos\projectfinal\projectfinal\bitmap.c(10): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\omerd\source\repos\projectfinal\projectfinal\bitmap.c(25): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\omerd\source\repos\projectfinal\projectfinal\bitmap.c(35): warning C4013: 'free' undefined; assuming extern returning int
+  compressPGM.c
+c:\users\omerd\source\repos\projectfinal\projectfinal\compresspgm.c(27): warning C4101: 'bitArrTemp': unreferenced local variable
+  decompressBinaryImage.c
+  main.c
+  pgmHandle.c
+c:\users\omerd\source\repos\projectfinal\projectfinal\pgmhandle.c(8): warning C4101: 'i': unreferenced local variable
+  segment.c
+c:\users\omerd\source\repos\projectfinal\projectfinal\segment.c(26): warning C4133: '=': incompatible types - from 'Segment *' to 'treeNode *'
+c:\users\omerd\source\repos\projectfinal\projectfinal\segment.c(38): warning C4101: 'similar_neighbors': unreferenced local variable
+  updateImage.c
+c:\users\omerd\source\repos\projectfinal\projectfinal\updateimage.c(6): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+c:\users\omerd\source\repos\projectfinal\projectfinal\segment.c(34): warning C4715: 'AllocateSegment': not all control paths return a value
+  ProjectFinal.vcxproj -> C:\Users\omerd\source\repos\ProjectFinal\Debug\ProjectFinal.exe
