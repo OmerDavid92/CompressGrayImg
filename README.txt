@@ -8,4 +8,4 @@ In this project We:
 4. Compress it into a bin file. 
 5. There is an option to Uncompress the image back into PGM file.
 
-**For further details please note GrayImage.pdf File
+**For further details please note GrayImg.pdf File
